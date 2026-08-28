@@ -13,8 +13,8 @@
 <p>
   <img src="https://img.shields.io/badge/前端架构-6年_React_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
   <img src="https://img.shields.io/badge/主力后端-4年_Rust_%2F_Axum_%2F_Tokio-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/多元生态-2年多_jQuery_%2F_Vue_%2F_小程序-339933?style=flat-square&logo=node.js&logoColor=white" alt="FullStack" />
-  <img src="https://img.shields.io/badge/工程理念-架构重构_%26_AI_提效-3EF2CF?style=flat-square&logo=openai&logoColor=black" alt="AI & Refactor" />
+  <img src="https://img.shields.io/badge/多元生态-2年_jQuery_%2F_Vue_%2F_小程序-339933?style=flat-square&logo=node.js&logoColor=white" alt="FullStack" />
+  <img src="https://img.shields.io/badge/工程理念-架构演进_%26_AI_提效-3EF2CF?style=flat-square&logo=openai&logoColor=black" alt="AI & Refactor" />
 </p>
 
 <b>「 12 年工程沉淀，坚信技术的核心价值是把复杂交互做优雅、把系统做健壮、把性能做到极致 」</b>
@@ -28,8 +28,8 @@
 深耕工程领域 **12 年**：
 - ⚛️ **6 年 React 架构深度**：深入 React 组件化体系、通用组件库封装、TypeScript 严格类型流与规范化流水线，兼顾首屏极致秒开与复杂业务长期可维护性。
 - 🦀 **4 年 Rust + Axum 主力后端**：以 Rust + Axum 作为主力后端开发技术栈，深入 Tokio 异步高并发、多线程事件驱动与 WebSocket 实时通信网关，具备系统级性能思维。
-- 🌐 **2 年多 jQuery / Vue / 微信小程序多元生态**：早期扎实技术栈积累，经历过全站从 jQuery 向现代前端架构迁移、小程序内测期生态开拓与老旧系统重构攻坚。
-- 🛠️ **工业级工程基建与 AI 提效**：接手过多套核心遗留系统重构，攻坚性能瓶颈与全链路监控；深度将 AI 融入日常编码，以工业级标准守牢代码底线。
+- 🌐 **2 年 jQuery / Vue / 微信小程序多元生态**：早期扎实的 jQuery 业务开发与 Vue / 微信小程序多端生态交付，经历过技术栈向现代前端架构的平滑演进。
+- 🛠️ **工业级工程基建与 AI 提效**：攻坚性能瓶颈与全链路监控；深度将 AI 融入日常编码，以工业级标准守牢代码底线。
 
 ---
 
@@ -64,7 +64,7 @@
     <td>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
-      <img src="https://img.shields.io/badge/jQuery_重构-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     </td>
@@ -96,7 +96,7 @@
 
 <br />
 
-<b>🤝 可承接方向：React 前端架构 · Rust + Axum 高性能后端 · 遗留系统现代化重构 · 性能瓶颈攻坚</b>
+<b>🤝 可承接方向：React 前端架构 · Rust + Axum 高性能后端 · 性能瓶颈攻坚</b>
 
 <sub>⚡ 专注系统健壮与性能极致，把复杂问题想清楚、做正确、做扎实。</sub>
 
