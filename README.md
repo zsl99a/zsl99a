@@ -2,7 +2,7 @@
 
 # ⚡ zsl99a
 
-### 资深前端 / 全栈工程师 · 6年 React 架构 · 4年 Rust 系统
+### 资深前端架构 / Rust 后端工程师 · 6年 React · 4年 Rust+Axum
 
 <p>
   <a href="https://zsl99a.github.io"><img src="https://img.shields.io/badge/🌐_在线主页与简历-zsl99a.github.io-3EF2CF?style=for-the-badge&logoColor=05070D" alt="Website" /></a>
@@ -11,13 +11,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/前端架构-6年_React_%2F_Vue_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
-  <img src="https://img.shields.io/badge/全栈工程-NestJS_%2F_Express_%2F_Node.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="FullStack" />
-  <img src="https://img.shields.io/badge/底层纵深-4年_Rust_%2F_Tokio_%2F_Axum-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/前端架构-6年_React_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/主力后端-4年_Rust_%2F_Axum_%2F_Tokio-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/多元生态-2年多_jQuery_%2F_Vue_%2F_小程序-339933?style=flat-square&logo=node.js&logoColor=white" alt="FullStack" />
   <img src="https://img.shields.io/badge/工程理念-架构重构_%26_AI_提效-3EF2CF?style=flat-square&logo=openai&logoColor=black" alt="AI & Refactor" />
 </p>
 
-<b>「 12 年全栈沉淀，坚信前端的核心价值是把复杂交互做优雅、把工程做健壮、把性能做到极致 」</b>
+<b>「 12 年工程沉淀，坚信技术的核心价值是把复杂交互做优雅、把系统做健壮、把性能做到极致 」</b>
 
 </div>
 
@@ -25,11 +25,11 @@
 
 ## 👨‍💻 关于我 / About Me
 
-深耕前端工程领域 **12 年**：
-- ⚛️ **6 年 React 架构深度**：深入 React / Vue 组件化体系、通用组件库封装、TypeScript 严格类型流与现代工程化流水线，兼顾首屏极致性能与复杂业务长期可维护性。
-- 🦀 **4 年 Rust 系统级实战**：深入 Rust (Tokio / Axum) 异步高并发、多线程事件驱动与内存安全，具备系统级性能思维与底层架构视野。
-- 🚀 **Node.js 全栈能力**：熟练运用 NestJS / Express 构建高可用 BFF、WebSocket 实时通信网关与数据库设计。
-- 🛠️ **老旧系统攻坚与 AI 提效**：接手过多次遗留系统重构，擅长啃硬骨头与性能瓶颈攻坚；深度借助 AI 提效，以工业级标准把关代码质量。
+深耕工程领域 **12 年**：
+- ⚛️ **6 年 React 架构深度**：深入 React 组件化体系、通用组件库封装、TypeScript 严格类型流与规范化流水线，兼顾首屏极致秒开与复杂业务长期可维护性。
+- 🦀 **4 年 Rust + Axum 主力后端**：以 Rust + Axum 作为主力后端开发技术栈，深入 Tokio 异步高并发、多线程事件驱动与 WebSocket 实时通信网关，具备系统级性能思维。
+- 🌐 **2 年多 jQuery / Vue / 微信小程序多元生态**：早期扎实技术栈积累，经历过全站从 jQuery 向现代前端架构迁移、小程序内测期生态开拓与老旧系统重构攻坚。
+- 🛠️ **工业级工程基建与 AI 提效**：接手过多套核心遗留系统重构，攻坚性能瓶颈与全链路监控；深度将 AI 融入日常编码，以工业级标准守牢代码底线。
 
 ---
 
@@ -37,41 +37,37 @@
 
 <table>
   <tr>
-    <td width="20%" align="right"><b>前端架构（6 年）</b></td>
+    <td width="20%" align="right"><b>前端架构（6 年主力）</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
       <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Less/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>底层系统（4 年）</b></td>
+    <td width="20%" align="right"><b>主力后端（4 年主力）</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/实时通信网关-3EF2CF?style=flat-square&logoColor=05070D" />
+      <img src="https://img.shields.io/badge/WebSocket_网关-3EF2CF?style=flat-square&logoColor=05070D" />
       <img src="https://img.shields.io/badge/多线程异步并发-8B6CFF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>Node.js & 全栈后端</b></td>
+    <td width="20%" align="right"><b>多元生态与多端</b></td>
     <td>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery_重构-0769AD?style=flat-square&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma/TypeORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -90,30 +86,6 @@
 
 ---
 
-## 📦 精选开源与实践 / Featured Repositories
-
-| 仓库 | 说明 | 核心技术栈 |
-| :--- | :--- | :--- |
-| 🌐 **[zsl99a.github.io](https://github.com/zsl99a/zsl99a.github.io)** | 个人主页与在线简历：现代深空终端视觉体系，GitHub 实时数据流同步 | `HTML5` · `CSS3` · `JavaScript` |
-| ⚡ **[websocket](https://github.com/zsl99a/websocket)** | 高性能异步 WebSocket 客户端库：指数退避自动重连、心跳保活、事件驱动 | `Rust` · `Tokio` · `WebSocket` |
-| 🚀 **[netz](https://github.com/zsl99a/netz)** | 高性能网络层与 QUIC 实践，面向低延迟通信与闪电网络基础组件 | `Rust` · `QUIC` · `Async` |
-| 💬 **[quark-im](https://github.com/zsl99a/quark-im)** | 基于 Rust 的即时通讯系统：消息路由处理、链路测速与路径拓扑查找 | `Rust` · `Tokio` · `IM` |
-| ⚛️ **[oxygen-ui](https://github.com/zsl99a/oxygen-ui)** | Leptos + Axum 全栈 Web 架构探索，Rust 编译至 WASM 的前端工程实践 | `Rust` · `Leptos` · `WASM` · `Axum` |
-
----
-
-## 📈 贡献与热力 / Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zsl99a/zsl99a/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zsl99a&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ## 📫 联系与合作 / Connect With Me
 
 <div align="center">
@@ -125,8 +97,8 @@
 
 <br />
 
-<b>🤝 可承接方向：复杂前端架构 · 遗留系统现代化重构 · NestJS / Express 全栈 · 性能瓶颈攻坚</b>
+<b>🤝 可承接方向：React 前端架构 · Rust + Axum 高性能后端 · 遗留系统现代化重构 · 性能瓶颈攻坚</b>
 
-<sub>⚡ 专注架构健壮与性能极致，把复杂系统做对、做快、做稳。</sub>
+<sub>⚡ 专注系统健壮与性能极致，把复杂问题想清楚、做正确、做扎实。</sub>
 
 </div>
