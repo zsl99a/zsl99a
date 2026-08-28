@@ -83,7 +83,7 @@
   <img alt="贡献蛇" src="https://raw.githubusercontent.com/zsl99a/zsl99a/output/github-contribution-grid-snake.svg" />  
 </div>
 
-> 贡献蛇由 `profile/.github/workflows/snake.yml` 每日生成。⚠️ 当前指向的 `zsl99a/zsl99a` 仓库尚未创建，图片暂不可用——新建同名仓库（含 `profile/README.md`）后工作流即可运行并自动输出。
+> 贡献蛇由 `snake.yml` 每日 00:00 UTC 自动生成并推送到 `output` 分支，也可在 Actions 中手动触发。
 
 ---
 
