@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="20%" align="right"><b>前端架构（6 年主力）</b></td>
+    <td align="right" nowrap><b>前端架构 · 6 年</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -49,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>主力后端（4 年主力）</b></td>
+    <td align="right" nowrap><b>主力后端 · 4 年</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>多元生态与多端</b></td>
+    <td align="right" nowrap><b>多元生态与多端</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>工程化与工具链</b></td>
+    <td align="right" nowrap><b>工程化与工具链</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
