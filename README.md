@@ -53,15 +53,8 @@
 
 <div align="center">
 
-![Email](https://img.shields.io/badge/Email-zsl99a%40live.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)
+![Email](https://img.shields.io/badge/Email-zsl99a%40live.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-zsl99a-181717?style=for-the-badge\&logo=github\&logoColor=white) ![WeChat](https://img.shields.io/badge/WeChat-zsl99a-07C160?style=for-the-badge\&logo=wechat\&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-zsl99a-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![WeChat](https://img.shields.io/badge/WeChat-zsl99a-07C160?style=for-the-badge\&logo=wechat\&logoColor=white)
-
-  
-  
-  
 <b>可承接方向：老旧系统重构 · 高并发性能优化 · 底层架构升级 · Rust 全栈交付</b>
 
 </div>
