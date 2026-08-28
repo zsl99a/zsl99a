@@ -2,7 +2,7 @@
 
 # ⚡ zsl99a
 
-### 资深前端 / 全栈工程师 · React · Vue · NestJS · Rust
+### 资深前端 / 全栈工程师 · 6年 React 架构 · 4年 Rust 系统
 
 <p>
   <a href="https://zsl99a.github.io"><img src="https://img.shields.io/badge/🌐_在线主页与简历-zsl99a.github.io-3EF2CF?style=for-the-badge&logoColor=05070D" alt="Website" /></a>
@@ -11,9 +11,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/前端架构-React_%2F_Vue_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/前端架构-6年_React_%2F_Vue_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
   <img src="https://img.shields.io/badge/全栈工程-NestJS_%2F_Express_%2F_Node.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="FullStack" />
-  <img src="https://img.shields.io/badge/底层纵深-Rust_%2F_Tokio_%2F_Axum-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/底层纵深-4年_Rust_%2F_Tokio_%2F_Axum-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
   <img src="https://img.shields.io/badge/工程理念-架构重构_%26_AI_提效-3EF2CF?style=flat-square&logo=openai&logoColor=black" alt="AI & Refactor" />
 </p>
 
@@ -25,13 +25,11 @@
 
 ## 👨‍💻 关于我 / About Me
 
-深耕前端工程领域 **12 年**。从 **React / Vue** 组件化体系、多端适配到 **Node.js（NestJS / Express）** 全栈交付均有扎实沉淀；近 5 年深入 **Rust** 异步并发与高性能系统，具备底层性能思维与严谨的系统级设计视野。接手老旧系统多，擅长啃硬骨头；也能独立负责业务从 0 到 1 的架构设计与上线交付。
-
-### 核心特质与工程理念
-
-- ⚛️ **前端根基 · 架构工程化**：以 React / Vue 组件化体系与 TypeScript 为核心，搭建模块化通用组件库与规范化构建流水线；注重组件解耦与单向数据流，兼顾复杂交互体验、首屏毫秒级加载与长期可维护性。
-- 🚀 **全栈贯通 · 技术纵深**：熟练运用 Node.js、NestJS、Express 构建高可用 BFF 与后端服务，配合 WebSocket 实时数据通信与 PostgreSQL；深入 Rust (Tokio/Axum) 掌握多线程并发与内存安全，贯穿从像素界面到底层服务。
-- 🛠️ **攻坚治理 · 质量与闭环**：治理过多套核心业务老旧系统，推进技术栈平滑迁移、构建与打包瘦身、异常主动感知（Sentry）与数据埋点；深度将 AI 融入日常编码提效，同时以工业级标准守牢代码底线。
+深耕前端工程领域 **12 年**：
+- ⚛️ **6 年 React 架构深度**：深入 React / Vue 组件化体系、通用组件库封装、TypeScript 严格类型流与现代工程化流水线，兼顾首屏极致性能与复杂业务长期可维护性。
+- 🦀 **4 年 Rust 系统级实战**：深入 Rust (Tokio / Axum) 异步高并发、多线程事件驱动与内存安全，具备系统级性能思维与底层架构视野。
+- 🚀 **Node.js 全栈能力**：熟练运用 NestJS / Express 构建高可用 BFF、WebSocket 实时通信网关与数据库设计。
+- 🛠️ **老旧系统攻坚与 AI 提效**：接手过多次遗留系统重构，擅长啃硬骨头与性能瓶颈攻坚；深度借助 AI 提效，以工业级标准把关代码质量。
 
 ---
 
@@ -39,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="20%" align="right"><b>前端架构与多端</b></td>
+    <td width="20%" align="right"><b>前端架构（6 年）</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
@@ -53,6 +51,17 @@
     </td>
   </tr>
   <tr>
+    <td width="20%" align="right"><b>底层系统（4 年）</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/实时通信网关-3EF2CF?style=flat-square&logoColor=05070D" />
+      <img src="https://img.shields.io/badge/多线程异步并发-8B6CFF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td width="20%" align="right"><b>Node.js & 全栈后端</b></td>
     <td>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -63,17 +72,6 @@
       <img src="https://img.shields.io/badge/Prisma/TypeORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="right"><b>底层系统与高性能实践</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/实时通信网关-3EF2CF?style=flat-square&logoColor=05070D" />
-      <img src="https://img.shields.io/badge/多线程异步并发-8B6CFF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
     </td>
   </tr>
   <tr>
