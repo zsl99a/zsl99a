@@ -67,7 +67,6 @@
       <img src="https://img.shields.io/badge/jQuery_重构-0769AD?style=flat-square&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
