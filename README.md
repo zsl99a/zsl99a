@@ -2,7 +2,7 @@
 
 # ⚡ zsl99a
 
-### 前端 / 全栈工程师 · Rust 高频交易系统构建者
+### 资深前端 / 全栈工程师 · React · Vue · NestJS · Rust
 
 <p>
   <a href="https://zsl99a.github.io"><img src="https://img.shields.io/badge/🌐_在线主页与简历-zsl99a.github.io-3EF2CF?style=for-the-badge&logoColor=05070D" alt="Website" /></a>
@@ -11,13 +11,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/经验-12%2B_年全栈交付-3EF2CF?style=flat-square&logo=clockify&logoColor=black" alt="Experience" />
-  <img src="https://img.shields.io/badge/系统状态-7×24h_在线运行-8B6CFF?style=flat-square&logo=server&logoColor=white" alt="System Status" />
-  <img src="https://img.shields.io/badge/底层时延-μs_微秒级交易引擎-DEA584?style=flat-square&logo=rust&logoColor=black" alt="HFT" />
-  <img src="https://img.shields.io/badge/工作流-AI_辅助深度实践-FFB84D?style=flat-square&logo=openai&logoColor=black" alt="AI Workflow" />
+  <img src="https://img.shields.io/badge/前端架构-React_%2F_Vue_%2F_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/全栈工程-NestJS_%2F_Express_%2F_Node.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="FullStack" />
+  <img src="https://img.shields.io/badge/底层纵深-Rust_%2F_Tokio_%2F_Axum-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/工程理念-架构重构_%26_AI_提效-3EF2CF?style=flat-square&logo=openai&logoColor=black" alt="AI & Refactor" />
 </p>
 
-<b>「 12 年全栈沉淀，坚信代码的终极价值是把复杂系统做对、做快、做稳 」</b>
+<b>「 12 年全栈沉淀，坚信前端的核心价值是把复杂交互做优雅、把工程做健壮、把性能做到极致 」</b>
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ## 👨‍💻 关于我 / About Me
 
-做过 **12 年开发**。前 7 年深耕前端工程与架构演进（**React** 起家，Vue、小程序、Node.js 均有丰富实操）；后 5 年以独立开发者身份转向 **Rust**，从零独立构建微秒级高频交易系统，至今 7×24 在线稳定运行。接手老旧系统多，能啃硬骨头；也能独立负责新业务从 0 到上线交付的全生命周期。
+深耕前端工程领域 **12 年**。从 **React / Vue** 组件化体系、多端适配到 **Node.js（NestJS / Express）** 全栈交付均有扎实沉淀；近 5 年深入 **Rust** 异步并发与高性能系统，具备底层性能思维与严谨的系统级设计视野。接手老旧系统多，擅长啃硬骨头；也能独立负责业务从 0 到 1 的架构设计与上线交付。
 
 ### 核心特质与工程理念
 
-- ⚛️ **前端根基 · 贯通底层**：以 React 组件化与工程化治理为基石，拓展至 Node.js 服务端与多端生态；深入 Rust 掌握多线程、异步 I/O (Tokio/Axum) 与内存安全，具备从像素界面到系统底层的全链路掌控力。
-- 🛠️ **能从 0 到 1 · 擅攻遗留重构**：治理过多套核心业务老系统（阿里巴巴/东方网升），主导渐进式架构升级、首屏极致提速与质量卡口治理；既能单枪匹马把业务从 0 做到上线，也能化解历史包袱使系统重焕新生。
-- 📊 **观测驱动 · 价值与质量守门**：在意每一行代码解决的具体业务问题，搭建 Sentry 异常监控主动感知线上隐患，建立数据埋点支撑产品决策；深度拥抱 AI 辅助编程提效，同时以高标准坚守代码质量底线。
+- ⚛️ **前端根基 · 架构工程化**：以 React / Vue 组件化体系与 TypeScript 为核心，搭建模块化通用组件库与规范化构建流水线；注重组件解耦与单向数据流，兼顾复杂交互体验、首屏毫秒级加载与长期可维护性。
+- 🚀 **全栈贯通 · 技术纵深**：熟练运用 Node.js、NestJS、Express 构建高可用 BFF 与后端服务，配合 WebSocket 实时数据通信与 PostgreSQL；深入 Rust (Tokio/Axum) 掌握多线程并发与内存安全，贯穿从像素界面到底层服务。
+- 🛠️ **攻坚治理 · 质量与闭环**：治理过多套核心业务老旧系统，推进技术栈平滑迁移、构建与打包瘦身、异常主动感知（Sentry）与数据埋点；深度将 AI 融入日常编码提效，同时以工业级标准守牢代码底线。
 
 ---
 
@@ -44,6 +44,7 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" />
       <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
@@ -52,39 +53,38 @@
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>后端与高并发</b></td>
+    <td width="20%" align="right"><b>Node.js & 全栈后端</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma/TypeORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="right"><b>系统底层与量化</b></td>
+    <td width="20%" align="right"><b>底层系统与高性能实践</b></td>
     <td>
-      <img src="https://img.shields.io/badge/微秒级行情网关-3EF2CF?style=flat-square&logoColor=05070D" />
-      <img src="https://img.shields.io/badge/本地订单簿(LOB)-8B6CFF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/策略执行引擎-FFB84D?style=flat-square&logoColor=05070D" />
-      <img src="https://img.shields.io/badge/实时风控监控-4ADE80?style=flat-square&logoColor=05070D" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axum-DEA584?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/实时通信网关-3EF2CF?style=flat-square&logoColor=05070D" />
+      <img src="https://img.shields.io/badge/多线程异步并发-8B6CFF?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="20%" align="right"><b>工程化与工具链</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Assisted-FF9900?style=flat-square&logo=openai&logoColor=white" />
     </td>
   </tr>
@@ -127,8 +127,8 @@
 
 <br />
 
-<b>🤝 可承接方向：复杂前端架构 · 老旧系统重构 · 高并发性能优化 · Rust / Node.js 全栈交付</b>
+<b>🤝 可承接方向：复杂前端架构 · 遗留系统现代化重构 · NestJS / Express 全栈 · 性能瓶颈攻坚</b>
 
-<sub>⚡ 用 Rust 写底层，用 AI 提效能，把复杂系统做对、做快、做稳。</sub>
+<sub>⚡ 专注架构健壮与性能极致，把复杂系统做对、做快、做稳。</sub>
 
 </div>
